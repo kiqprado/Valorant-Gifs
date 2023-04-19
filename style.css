@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: url(/image/city.png) no-repeat center center fixed;
+  background-size: cover;
+}
+
+
+.jett {
+  position: absolute;
+  bottom: 3.5%;
+  left: 22%;
+
+  width: 19%;
+}
+
+.neon {
+  position: absolute;
+  bottom: 4%;
+  right: 22%;
+
+  width: 21%;
+  transform: rotateY(180deg);
+}
+
+.sage {
+  position: absolute;
+  bottom: 2%;
+  left: 39%;
+  
+  width: 24%;
+}
+
+.skye {
+  position: absolute;
+  bottom: 2%;
+  right: 3%;
+
+  width: 24%;
+  transform: rotateY(180deg);
+}
+
+.viper {
+  position: absolute;
+  bottom: 2%;
+  left: 3%;
+
+  width: 24%;
+}

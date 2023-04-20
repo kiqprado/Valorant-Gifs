@@ -37,7 +37,7 @@ body {
 .skye {
   position: absolute;
   bottom: 2%;
-  right: 3%;
+  right: 2%;
 
   width: 24%;
   transform: rotateY(180deg);
@@ -46,7 +46,7 @@ body {
 .viper {
   position: absolute;
   bottom: 2%;
-  left: 3%;
+  left: 2%;
 
   width: 24%;
 }
